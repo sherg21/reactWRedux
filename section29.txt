@@ -1,0 +1,3 @@
+Section 29 is a repeat of the videos project, but with
+an older version of React. Consequently, I only watched
+the videos for Section 29.
